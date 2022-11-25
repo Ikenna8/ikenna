@@ -1,0 +1,30 @@
+ body{
+	 background-color : brown;
+ }
+ 
+ 
+ 
+ .header{
+	 text-align: center;
+ }
+
+
+
+.title{
+	background-color: grey;
+	text-align: center;
+}
+
+.text {
+	font-size: 24px;
+	font-family: cursive;
+	
+
+.text2 {
+	font-size: 24px;
+	
+}
+.subtitle{
+				   background-color: grey;
+	text-align: center;
+		}
